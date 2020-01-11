@@ -9,7 +9,7 @@ namespace Vidly.Controllers
 {
     public class MoviesController : Controller
     {
-        // GET: Movies
+        // Temp hardcode in Random action
         public ActionResult Random()
         {
             var movie = new Movie() { Name = "Shrek" };
