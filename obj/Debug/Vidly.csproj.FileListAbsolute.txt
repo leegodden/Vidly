@@ -108,3 +108,6 @@ C:\Users\leegodden\Source\Repos\Vidly\obj\Debug\Vidly.csproj.GenerateResource.ca
 C:\Users\leegodden\Source\Repos\Vidly\obj\Debug\Vidly.Migrations.MembershipType.resources
 C:\Users\leegodden\Source\Repos\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
 C:\Users\leegodden\Source\Repos\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+C:\Users\leegodden\Source\Repos\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipTypes.resources
+C:\Users\leegodden\Source\Repos\Vidly\obj\Debug\Vidly.Migrations.UpdateMembershipTypeColumn.resources
+C:\Users\leegodden\Source\Repos\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources

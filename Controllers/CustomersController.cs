@@ -10,6 +10,8 @@ namespace Vidly.Controllers
     {
 
         private ApplicationDbContext _context;
+
+        // Constructor
         public CustomersController()
         {
             _context = new ApplicationDbContext();
