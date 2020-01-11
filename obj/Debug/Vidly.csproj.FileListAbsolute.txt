@@ -103,3 +103,8 @@ C:\Users\leegodden\Source\Repos\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.c
 C:\Users\leegodden\Source\Repos\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 C:\Users\leegodden\Source\Repos\Vidly\obj\Debug\Vidly.dll
 C:\Users\leegodden\Source\Repos\Vidly\obj\Debug\Vidly.pdb
+C:\Users\leegodden\Source\Repos\Vidly\obj\Debug\Vidly.Migrations.Initial.resources
+C:\Users\leegodden\Source\Repos\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+C:\Users\leegodden\Source\Repos\Vidly\obj\Debug\Vidly.Migrations.MembershipType.resources
+C:\Users\leegodden\Source\Repos\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+C:\Users\leegodden\Source\Repos\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
